@@ -134,12 +134,12 @@ All supplied plot images are included in the `plots/` folder and embedded below.
 ![Review word-count histogram](plots/histogram.png)
 
 #### Review word counts by sentiment
-![Review word-count boxplot](plots/boxplot(1).png)
+![Review word-count boxplot](plots/boxplot.png)
 
 ### 5. Recurrent-state visualisations
 
 #### Manual RNN hidden-state heatmap
-![Manual RNN hidden-state heatmap](plots/heatmap(2).png)
+![Manual RNN hidden-state heatmap](plots/heatmap.png)
 
 #### GRU hidden-state update
 ![GRU hidden-state update](plots/gru_hidden_state.png)
