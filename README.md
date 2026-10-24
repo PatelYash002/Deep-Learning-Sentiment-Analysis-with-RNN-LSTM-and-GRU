@@ -20,7 +20,7 @@ The project explores how neural networks learn sentiment from sequences of words
 - **Stacked LSTM** — stacks recurrent layers to learn more complex representations.
 - **GRU** — uses update and reset gates with a more compact gating design than LSTM.
 
-🎥 **Video:** [`Explanation Video`](https://drive.google.com/file/d/1dyl48J4srtE-wqF76ArJWylJC0tDCqZO/view?usp=sharing)
+🎥 **Video:** [`Explanation Video`](https://drive.google.com/file/d/1ghroD-GnANLNYJxyGNrI15KG1P-9iqbP/view?usp=sharing)
 
 ## 🎯 Objectives
 
